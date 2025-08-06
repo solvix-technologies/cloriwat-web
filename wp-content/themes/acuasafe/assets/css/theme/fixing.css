@@ -1,0 +1,70 @@
+.admin-bar .main-header.fixed-header .main-box {
+    top: 32px;
+}
+.service-section .image-layer {
+    margin-left: 25px !important;
+}
+.main-footer.two {
+    padding: 0;
+}
+.main-footer.three {
+    padding: 0;
+}
+.main-footer.four {
+    padding: 0;
+}
+.main-footer.five {
+    padding: 0;
+}
+.main-footer.six {
+    padding-top: 0;
+}
+.main-footer .logo-widget .footer-logo {
+    margin-bottom: 37px !important;
+}
+.about-section.two {
+    margin-top: 60px;
+}
+.testimonial-block-two .inner-box .author-thumb {
+    margin-top: -75px !important;
+    margin-bottom: 32px !important;
+}
+.service-details.one {
+    padding-bottom: 0;
+}
+.service-details.two {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.service-details.three {
+    padding-top: 0;
+}
+.elementor-widget:not(:last-child) {
+    margin-bottom: 0 !IMPORTANT;
+}
+span.page-numbers.current {
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    z-index: 1;
+    border: 1px solid #e7e7e7;
+    transition: all 500ms ease;
+    background-color: #00d1f9;
+    border-color: #00d1f9;
+    color: #fff;
+}
+.blog-details-content .post-share-option .social-links li h5 {
+    margin: 0;
+}
+
+
+
+
+

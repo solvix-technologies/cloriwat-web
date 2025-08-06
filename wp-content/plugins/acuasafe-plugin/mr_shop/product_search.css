@@ -1,0 +1,62 @@
+/* Product Search  Cutom */
+
+.mr-search-box-form {
+    padding: 30px;
+    border-width: 1px;
+    border-color: #f4f4f4;
+    border-style: solid;
+    border-radius: 8px;
+    /* background-color: #f5f8fc; */
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+    gap: 25px;
+}
+.mr-search-box-form  select {
+    display: block;
+    padding-left: 8px;
+    padding-right: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    background: #fcfcfc;
+    /* color: black; */
+    box-shadow: 0px 10px 50px 0px rgb(0 0 0 / 8%);
+    border: 1px solid #efefef;
+}
+.mr-search-box-form  button {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    background: black;
+    border: 2px solid var(--color-high-dark);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    height: 52px;
+    text-transform: capitalize;
+    transition: 0.3s;
+}
+.mr-search-box-form  button:hover {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    background: black;
+    border: 2px solid var(--color-high-dark);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    height: 52px;
+    text-transform: capitalize;
+    transition: 0.3s;
+}
+
+.elementor-panel .elementor-element .icon i:before {
+    content: "MR";
+    display: inline-block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+}
